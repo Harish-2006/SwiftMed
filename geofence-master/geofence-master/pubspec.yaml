@@ -1,0 +1,26 @@
+name: geofence_flutter
+description: Flutter geofencing plugin for flutter application (android and ios).
+repository: https://github.com/SarfarazAhmed008/geofence
+issue_tracker: https://github.com/SarfarazAhmed008/geofence/issues?q=is%3Aissue+is%3Aopen
+
+version: 2.0.0
+
+environment:
+  sdk: ">=2.18.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  geolocator: ^9.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
